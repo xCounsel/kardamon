@@ -8,8 +8,7 @@
 
 It is informational resource dedicated to legal issues in respect of domain names. Among other things, one may find the collections of court cases collected into corresponding categories (issues related to trademarks, administering, compensation, etc.).
 
-### Important details
--------------
+## Important details
 
 *coming soon*
 
@@ -22,12 +21,11 @@ It cannot be regarded as legal advice. In any circumstances authors or owners of
 
 ## License
 
-
 (c) [Denis Dorotenko](http://linkedin.com/in/dorotenko/), 2018 <br/>
 *coming soon*
 
-### Author
--------------
+## Author
+
 This project is created, and the materials are created, collected and published by me, Denis Dorotenko.<br/>
 I am IT/IP Legal Counsel, currently employed at [Yandex LLC](https://yandex.com/company/). <br/>
 
@@ -37,8 +35,7 @@ As another part of my work, I also support corporate cases related to domain nam
 All your ideas, requests, suggestions, work offers and critics are appreciated.<br/> 
 Feel free to connect me. Contacts and links: my profiles at [LinkedIn](http://linkedin.com/in/dorotenko/en) and [Zakon.ru](http://zakon.ru/dorotenko), own website at [dorotenko.pro](http://dorotenko.pro/english).
 
-### Anything else?
--------------
+## Anything else?
 
 Yes. Have a good day and achieve all your goals.
 
