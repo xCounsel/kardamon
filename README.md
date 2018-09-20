@@ -34,3 +34,11 @@ As another part of my work, I also support corporate cases related to domain nam
 
 All your ideas, requests, suggestions, work offers and critics are appreciated.<br/> 
 Feel free to connect me. Contacts and links: my profiles at [LinkedIn](http://linkedin.com/in/dorotenko/en) and [Zakon.ru](http://zakon.ru/dorotenko), own website at [dorotenko.pro](http://dorotenko.pro/english).
+
+### Anything else?
+-------------
+
+Yes. Have a good day and achieve all your goals.
+
+regards,<br/>
+Denis
