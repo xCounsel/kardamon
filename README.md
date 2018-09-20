@@ -4,11 +4,9 @@
 
 <br>
 
-### What is this?
--------------
+## What is this?
 
-*coming soon*
-
+It is informational resource dedicated to legal issues in respect of domain names. Among other things, one may find the collections of court cases collected into corresponding categories (issues related to trademarks, administering, compensation, etc.).
 
 ### Important details
 -------------
@@ -16,11 +14,14 @@
 *coming soon*
 
 
-### Disclaimer
--------------
+## Disclaimer
 
-### License
--------------
+Take into account the following. All the information published here is provided "as is" and for informational purposes only.<br/>
+It cannot be regarded as legal advice. In any circumstances authors or owners of these materials and information and/or maintainer of this project is not liable for any losses of the licensees or recipients of these materials and information.
+
+
+## License
+
 
 (c) [Denis Dorotenko](http://linkedin.com/in/dorotenko/), 2018 <br/>
 *coming soon*
