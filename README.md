@@ -5,19 +5,24 @@
 <br>
 
 ### What is this?
+-------------
 
 *coming soon*
 
 
 ### Important details
+-------------
 
 *coming soon*
 
 
 ### Disclaimer
+-------------
 
 ### License
+-------------
 
 *coming soon*
 
 ### Author
+-------------
