@@ -33,7 +33,4 @@ FYI, much of Yandex open source projects (including published at [corporate acco
 As another part of my work, I also support corporate cases related to domain names (claims management, UDRP, deals related to acquiring and transfer rights on domain names).
 
 All your ideas, requests, suggestions, work offers and critics are appreciated.<br/> 
-Feel free to connect me. Contacts and links:
-* [My LinkedIn](http://linkedin.com/in/dorotenko/en)
-* [My website at dorotenko.pro](http://dorotenko.pro/english)
-* [My profile at Zakon.ru](http://zakon.ru/dorotenko)
+Feel free to connect me. Contacts and links: my profiles at [LinkedIn](http://linkedin.com/in/dorotenko/en) and [Zakon.ru](http://zakon.ru/dorotenko), own website at [dorotenko.pro](http://dorotenko.pro/english).
