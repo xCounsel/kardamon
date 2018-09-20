@@ -22,6 +22,7 @@
 ### License
 -------------
 
+(c) [Denis Dorotenko](http://linkedin.com/in/dorotenko/), 2018 <br/>
 *coming soon*
 
 ### Author
