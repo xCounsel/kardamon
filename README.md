@@ -26,7 +26,9 @@ Provided information cannot be regarded as legal advice. See additional info abo
 ## License
 
 (c) [Denis Dorotenko](http://linkedin.com/in/dorotenko/), 2018 <br/>
-*coming soon*
+All the materials are licensed under Attribution-NonCommercial 4.0 International (CC BY-NC 4.0). <br/> 
+Full text of this license is available at [LICENSE.md](LICENSE.md) or [here](https://creativecommons.org/licenses/by-nc/4.0/legalcode) Short summary of this license is available [here](https://creativecommons.org/licenses/by-nc/4.0/). <br/>
+If you need to use these materials or any portion of them in commercial purposes, feel free to contact the author.
 
 ## Author
 
