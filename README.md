@@ -20,7 +20,7 @@ It is informational resource dedicated to legal issues in respect of domain name
 ## Disclaimer
 
 All materials published here and information contained in them are provided "as is" and for informational purposes only.<br/>
-Provided information cannot be regarded as legal advice. See additional info about this disclaimer and limitation of liability [here](DISCLAIMER.md).
+They cannot be regarded as legal advice. See additional info about this disclaimer and limitation of liability [here](DISCLAIMER.md).
 
 
 ## License
