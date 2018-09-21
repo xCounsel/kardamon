@@ -9,7 +9,8 @@
 It is informational resource dedicated to legal issues in respect of domain names. Among other things, one may find the collections of court cases collected into corresponding categories (related to trademarks, administering, compensation, etc.).<br/>
 
 
-## Important details
+## Getting Started
+
 
 *coming soon*
 
@@ -35,6 +36,11 @@ As another part of my work, I also support corporate cases related to domain nam
 
 All your ideas, requests, suggestions, work offers and critics are appreciated.<br/> 
 Feel free to connect me. Contacts and links: my profiles at [LinkedIn](http://linkedin.com/in/dorotenko/en) and [Zakon.ru](http://zakon.ru/dorotenko), own website at [dorotenko.pro](http://dorotenko.pro/english).
+
+## Contributing
+
+Please read CONTRIBUTING.md for the details how to submit pull requests to us.
+
 
 ## Anything else?
 
