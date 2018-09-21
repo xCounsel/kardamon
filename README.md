@@ -19,8 +19,8 @@ It is informational resource dedicated to legal issues in respect of domain name
 
 ## Disclaimer
 
-Take into account the following. All the information published here is provided "as is" and for informational purposes only.<br/>
-It cannot be regarded as legal advice. In any circumstances authors or owners of these materials and information and/or maintainer of this project is not liable for any losses of the licensees or recipients of these materials and information.
+All materials published here and information contained in them are provided "as is" and for informational purposes only.<br/>
+Provided information cannot be regarded as legal advice. See additional info about this disclaimer and limitation of liability [here](DISCLAIMER.md).
 
 
 ## License
