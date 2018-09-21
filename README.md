@@ -6,7 +6,8 @@
 
 ## What is this?
 
-It is informational resource dedicated to legal issues in respect of domain names. Among other things, one may find the collections of court cases collected into corresponding categories (issues related to trademarks, administering, compensation, etc.).
+It is informational resource dedicated to legal issues in respect of domain names. Among other things, one may find the collections of court cases collected into corresponding categories (related to trademarks, administering, compensation, etc.).<br/>
+
 
 ## Important details
 
