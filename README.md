@@ -19,8 +19,8 @@ In Kardamon you can find following materials related to domain names:
 
 ## Getting Started
 
-Simply choose language version the most comfortable to you, and start to read, analyze and use the materials for your purposes)
-See the project's [wiki](https://github.com/xCounsel/cardamom/wiki), it contains structed info about published materials.
+Simply choose comfortable language version and start to read, analyze and use the materials for your purposes)<br/>
+See the project's [wiki](https://github.com/xCounsel/cardamom/wiki), it contains structured info about published materials.
 
 
 ## Disclaimer
