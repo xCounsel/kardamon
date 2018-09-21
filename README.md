@@ -7,7 +7,7 @@
 ## What is this?
 
 Kardamon is informational resource dedicated to legal issues in respect of domain names. <br/>
-Among other things, one may find the collections of court cases collected into corresponding categories (related to trademarks, administering, compensation, etc.).<br/>
+The most of materials are relevant to Russian laws. Among other things, one may find the collections of articles, court cases collected into corresponding categories (related to trademarks, administering, compensation, etc.).<br/>
 
 ## Key features
 
@@ -19,8 +19,8 @@ In Kardamon you can find following materials related to domain names:
 
 ## Getting Started
 
-
-*coming soon*
+Simply choose language version the most comfortable to you, and start to read, analyze and use the materials for your purposes)
+See the project's [wiki](https://github.com/xCounsel/cardamom/wiki), it contains structed info about published materials.
 
 
 ## Disclaimer
