@@ -1,4 +1,4 @@
-# Cardamom
+# Kardamon
 
 *This Readme in Russian is available [here](/cardamom/README-RU.md).*
 
@@ -6,10 +6,16 @@
 
 ## What is this?
 
-It is informational resource dedicated to legal issues in respect of domain names. Among other things, one may find the collections of court cases collected into corresponding categories (related to trademarks, administering, compensation, etc.).<br/>
+Kardamon is informational resource dedicated to legal issues in respect of domain names. <br/>
+Among other things, one may find the collections of court cases collected into corresponding categories (related to trademarks, administering, compensation, etc.).<br/>
 
 ## Key features
 
+In Kardamon you can find following materials related to domain names:
+* collections of court cases 
+* articles and opinions
+* events announces 
+* docs examples
 
 ## Getting Started
 
