@@ -3,7 +3,6 @@
 * [Подведомственность доменных споров с участием физических лиц](https://cyberleninka.ru/article/v/podvedomstvennost-domennyh-sporov-s-uchastiem-fizicheskih-lits) | pdf
 * [Принцип добросовестности как правовая основа разрешения доменных споров](https://cyberleninka.ru/article/v/printsip-dobrosovestnosti-kak-pravovaya-osnova-razresheniya-domennyh-sporov) | pdf
 * [Доменные споры: по процедуре UDRP или российскому законодательству](http://rapsinews.ru/legislation_publication/20120723/263884805.html)
-
 * [Процедуры разрешения споров арбитражным центром интеллектуальной собственности в Японии](https://cyberleninka.ru/article/v/protsedury-razresheniya-sporov-arbitrazhnym-tsentrom-intellektualnoy-sobstvennosti-yaponii) | pdf
 
 #### ICANN
