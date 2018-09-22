@@ -13,6 +13,10 @@
 
 * [Процедуры разрешения споров арбитражным центром интеллектуальной собственности в Японии](https://cyberleninka.ru/article/v/protsedury-razresheniya-sporov-arbitrazhnym-tsentrom-intellektualnoy-sobstvennosti-yaponii) | pdf
 
+#### Суд по интеллектуальным правам
+
+* [Справка по вопросам, возникающим при рассмотрении доменных споров](http://ipcmagazine.ru/official-cronicle/the-questions-that-arise-when-considering-domain-disputes)
+
 #### ICANN
 * [Правила рассмотрения споров о доменных именах](https://www.icann.org/resources/pages/dndr-2012-02-25-ru) | html
 * [Принципы рассмотрения споров о единообразных доменных имен](https://www.icann.org/resources/pages/policy-2012-02-25-ru) | html
