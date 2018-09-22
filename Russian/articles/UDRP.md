@@ -12,6 +12,7 @@
 ##### WIPO (ВОИС)
 
 * [Dispute Policy and Procedural Rules](http://www.wipo.int/amc/en/domains/rules/)
+* [the WIPO "Supplemental Rules"](http://www.wipo.int/amc/en/domains/supplemental/eudrp/newrules.html)
 * [WIPO Cases and WIPO Panel Decisions](http://www.wipo.int/amc/en/domains/search/index.html)
 
 <br/>
