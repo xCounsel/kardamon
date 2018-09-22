@@ -10,3 +10,7 @@
 * [Принципы рассмотрения споров о единообразных доменных имен](https://www.icann.org/resources/pages/policy-2012-02-25-ru) | html
 * [Принципы единых правил рассмотрения споров о доменных именах (UDRP)](https://www.icann.org/resources/pages/udrp-rules-2015-03-12-ru) | html
 * [Список одобренных поставщиков услуг разрешения споров](https://www.icann.org/resources/pages/providers-2012-02-25-ru) | html
+
+#### Обеспечительные меры
+* [Проблема обозначений участников доменных споров: некоторые пояснения для целей рассмотрения дел и применения обеспечительных мер](http://ipcmagazine.ru/legal-issues/the-problem-domain-disputes-designations-participants-some-explanations-for-the-purpose-of-consideration-of-cases-and-the-use-of-interim-measures)
+
