@@ -6,3 +6,4 @@
 
 * [Доменные имена и товарные знаки: вопросы правоприменительной практики](https://cyberleninka.ru/article/v/domennye-imena-i-tovarnye-znaki-voprosy-pravoprimenitelnoy-praktiki) | pdf
 * [Защита товарных знаков в составе доменного имени](https://cyberleninka.ru/article/v/zaschita-tovarnyh-znakov-v-sostave-domennogo-imeni) | pdf
+* [Использование товарных знаков в доменных именах](http://ipcmagazine.ru/trademark-law/the-use-of-trademarks-in-domain-names)
