@@ -1,6 +1,6 @@
 # Kardamon
 
-*This Readme in Russian is available [here](/cardamom/Russian/README.md).*
+*This Readme in Russian is available [here](/Russian/README.md).*
 
 <br>
 
