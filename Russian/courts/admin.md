@@ -1,5 +1,4 @@
-*(c) [Денис Доротенко](http://linkedin.com/in/dorotenko/), 2018*<br/>
-*[Лицензия](/kardamon/tree/master/Russian/license.md) / Прежупреждение*
+*(c) [Денис Доротенко](http://linkedin.com/in/dorotenko/), 2018* / *[Лицензия](/kardamon/tree/master/Russian/license.md)* / *Предупреждение*
 
 # Администрирование доменных имен
 
