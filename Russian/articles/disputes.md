@@ -1,5 +1,6 @@
 
 * [Принцип добросовестности как правовая основа разрешения доменных споров](https://cyberleninka.ru/article/v/printsip-dobrosovestnosti-kak-pravovaya-osnova-razresheniya-domennyh-sporov) | pdf
+* [Битва за доменные имена: Если понравился чужой домен, смело забирайте его ](https://vc.ru/ad/13022-cliff-2)
 
 #### Подсудность и подведомственность
 * [Компетенция государственных судов по рассмотрению доменных споров](https://cyberleninka.ru/article/v/kompetentsiya-gosudarstvennyh-sudov-po-rassmotreniyu-domennyh-sporov) | pdf
