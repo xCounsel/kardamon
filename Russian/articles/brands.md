@@ -18,6 +18,7 @@
 * [Использование товарных знаков в доменных именах](http://ipcmagazine.ru/trademark-law/the-use-of-trademarks-in-domain-names)
 * [Товарный знак доминирует над доменом](https://www.gazeta.ru/business/2010/07/13/3397240.shtml)
 * [Приоритет товарного знака над доменным именем](http://bda-expert.com/2010/07/prioritet-tovarnogo-znaka-nad-domennym-imenem/)
+* [Смешение обозначений. Доменное имя и товарный знак](https://vitvet.com/blog/gkorotkevich/smeshenie_oboznachenij_domennoe_imya_i_tovarnyj_znak/)
 * [Tissot AG отстоял доменное имя](https://www.kommersant.ru/doc/1874135)
 
 #### Фирменные наименования
