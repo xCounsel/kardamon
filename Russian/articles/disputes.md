@@ -13,6 +13,10 @@
 #### Обеспечительные меры
 * [Проблема обозначений участников доменных споров: некоторые пояснения для целей рассмотрения дел и применения обеспечительных мер](http://ipcmagazine.ru/legal-issues/the-problem-domain-disputes-designations-participants-some-explanations-for-the-purpose-of-consideration-of-cases-and-the-use-of-interim-measures)
 
+#### Недобросовестная конкуренция
+* [ООО «ККУ «Концерн «Тракторные заводы» правомерно пожаловалось на недобросовестную конкуренцию со стороны ООО «ЧебАгроЗапчасть»](http://chuvashia.fas.gov.ru/news/11925)
+
+
 #### Зарубежный опыт
 
 * [Процедуры разрешения споров арбитражным центром интеллектуальной собственности в Японии](https://cyberleninka.ru/article/v/protsedury-razresheniya-sporov-arbitrazhnym-tsentrom-intellektualnoy-sobstvennosti-yaponii) | pdf
