@@ -1,7 +1,7 @@
 *(c) [Denis Dorotenko](http://linkedin.com/in/dorotenko/), 2018*
 
 # Доменные имена и товарные знаки
-[часть 1](/Russian/courts/tz.md) | часть 2 | часть 3
+[часть 1](/Russian/courts/tz.md) | часть 2 | [часть 3](/Russian/courts/tz3.md)
 <br/>
 
 ----
