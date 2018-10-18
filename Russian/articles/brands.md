@@ -21,6 +21,7 @@
 * [Смешение обозначений. Доменное имя и товарный знак](https://vitvet.com/blog/gkorotkevich/smeshenie_oboznachenij_domennoe_imya_i_tovarnyj_znak/)
 * [Tissot AG отстоял доменное имя](https://www.kommersant.ru/doc/1874135)
 * [Товарный знак или доменное имя: что главнее?](http://rapsinews.ru/judicial_analyst/20100715/250398792.html)
+* [Домен не достался обладателю товарного знака](https://habr.com/company/webnames/blog/170359/)
 
 #### Фирменные наименования
 
