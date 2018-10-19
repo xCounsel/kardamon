@@ -23,7 +23,7 @@
 ## Лицензия
 © Денис Доротенко, 2018<br/>
 Все материалы доступны на условиях лицензии Attribution-NonCommercial 4.0 International (CC BY-NC 4.0).<br/>
-Полный текст этой лицензии доступень в LICENSE.md или [здесь](https://creativecommons.org/licenses/by-nc/4.0/legalcode.ru). Ее краткое содержание доступно [здесь](https://creativecommons.org/licenses/by-nc/4.0/deed.ru).<br/>
+Полный текст этой лицензии доступень в [LICENSE.md](https://github.com/xCounsel/kardamon/blob/master/Russian/LICENSE.md) или [здесь](https://creativecommons.org/licenses/by-nc/4.0/legalcode.ru). Ее краткое содержание доступно [здесь](https://creativecommons.org/licenses/by-nc/4.0/deed.ru).<br/>
 Если необходимо использовать материалы в коммерческих целях, свяжитесь с автором.
 
 ## Автор
