@@ -1,4 +1,5 @@
 *(c) [Денис Доротенко](http://linkedin.com/in/dorotenko/), 2018* / *[Лицензия](/kardamon/tree/master/Russian/license.md)* / *Предупреждение*
+
 <br/>
 
 ## Kardamon. Доменные имена - объекты споров
