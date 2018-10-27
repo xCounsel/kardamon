@@ -2,7 +2,7 @@
 
 Все материалы и информация в рамках проекта Kardamon доступны на условиях следующей лицензии:<br/>
 
-**Публичная лицензия Creative Commons С указанием авторства-Некоммерческая версии 4.0 Международная** (CC BY-NC 4.0)
+**Публичная лицензия Creative Commons С указанием авторства-Некоммерческая версии 4.0 Международная** (*сокр.* CC BY-NC 4.0)
 
-Полный текст лицензии доступен по адресу: https://creativecommons.org/licenses/by-nc/4.0/legalcode.ru
+Полный текст лицензии доступен по адресу: https://creativecommons.org/licenses/by-nc/4.0/legalcode.ru <br/>
 Краткое содержание лицензии доступно по адресу: https://creativecommons.org/licenses/by-nc/4.0/
