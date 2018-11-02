@@ -1,3 +1,6 @@
+*(c) Денис Доротенко, 2018* / *[Лицензия](https://github.com/xCounsel/kardamon/blob/master/Russian/LICENSE.md)* / *[Предупреждение](https://github.com/xCounsel/kardamon/blob/master/Russian/DISCLAIMER.md)* / *[Об авторе и правообладателе](http://dorotenko.pro/about/)*
+
+<br/>
 
 ## Судебная практика 
 В этом разделе собраны позиции судов, сгруппированные по тематикам.
