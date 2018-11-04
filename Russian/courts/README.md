@@ -15,10 +15,10 @@
 
 * **[tech.md](https://github.com/xCounsel/cardamom/blob/master/Russian/courts/tech.md)** - технические аспекты Интернета и доменных имен
 * **[admin.md](https://github.com/xCounsel/cardamom/blob/master/Russian/courts/admin.md)** - администрирование доменных имен
-* доменные имена и товарные знаки ([часть 1](https://github.com/xCounsel/cardamom/blob/master/Russian/courts/tz.md), [часть 2](https://github.com/xCounsel/cardamom/blob/master/Russian/courts/tz2.md), [часть 3](https://github.com/xCounsel/cardamom/blob/master/Russian/courts/tz2.md))
-* [доменные имена и фирменные наименования](https://github.com/xCounsel/cardamom/blob/master/Russian/courts/fn.md)
-* [доказательства](https://github.com/xCounsel/cardamom/blob/master/Russian/courts/evidence.md)
-* [компенсации](https://github.com/xCounsel/cardamom/blob/master/Russian/courts/compensation.md)
+* **[tz.md](https://github.com/xCounsel/cardamom/blob/master/Russian/courts/tz.md), [tz2.md](https://github.com/xCounsel/cardamom/blob/master/Russian/courts/tz2.md), [tz3.md](https://github.com/xCounsel/cardamom/blob/master/Russian/courts/tz3.md)** - доменные имена и товарные знаки (части 1-3)
+* **[fn.md](https://github.com/xCounsel/cardamom/blob/master/Russian/courts/fn.md)** - доменные имена и фирменные наименования
+* **[evidence.md](https://github.com/xCounsel/cardamom/blob/master/Russian/courts/evidence.md)** - доказательства
+* **[compensation.md](https://github.com/xCounsel/cardamom/blob/master/Russian/courts/compensation.md)** - компенсации
 
 <br/>
 
