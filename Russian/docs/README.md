@@ -8,6 +8,7 @@
 Файлы раздела:
 * **[agreements.md](https://github.com/xCounsel/kardamon/blob/master/Russian/docs/agreements.md)** - договоры по доменным именам
 * **[сlaims.md](https://github.com/xCounsel/kardamon/blob/master/Russian/docs/claims.md)** - претензии на доменные имена
+* **[lawsuits.md](https://github.com/xCounsel/kardamon/blob/master/Russian/docs/lawsuits.md)** - исковые и иные заявления по доменным именам
 
 <br/>
 
