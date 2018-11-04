@@ -19,3 +19,9 @@
 * [доменные имена и фирменные наименования](https://github.com/xCounsel/cardamom/blob/master/Russian/courts/fn.md)
 * [доказательства](https://github.com/xCounsel/cardamom/blob/master/Russian/courts/evidence.md)
 * [компенсации](https://github.com/xCounsel/cardamom/blob/master/Russian/courts/compensation.md)
+
+<br/>
+
+----
+*В этом разделе представлена лишь часть имеющейся информации. Дополнительные материалы доступны у меня по запросу.*<br/>
+*Также, если у вас есть вопросы по доменам и вы в поисках юриста, [обращайтесь](http://dorotenko.pro/contact/). Постараюсь помочь.* 
