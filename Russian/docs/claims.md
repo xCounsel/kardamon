@@ -1,4 +1,6 @@
-*(c) [Denis Dorotenko](http://linkedin.com/in/dorotenko/), 2018*
+*(c) Денис Доротенко, 2018* / *[Лицензия](https://github.com/xCounsel/kardamon/blob/master/Russian/LICENSE.md)* / *[Предупреждение](https://github.com/xCounsel/kardamon/blob/master/Russian/DISCLAIMER.md)* / *[Об авторе](http://dorotenko.pro/about/)*
+
+<br/>
 
 # Образцы претензий на доменные имена
 
