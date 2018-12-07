@@ -15,5 +15,7 @@
 * Torsten Bettinger. "Domain Name Law and Practice: An International Handbook".  ISBN-13: 978-0199278251 
 * Robert A. Badgley. "Domain Name Disputes".  ISBN-13: 978-0735532939 
 
+<br/>
+
 ----
 *If you have questions related to domains and you are looking for a lawyer, [contact](http://dorotenko.pro/contact/). Will be glad to help.*
