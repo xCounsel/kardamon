@@ -63,9 +63,8 @@ manner not contrary to the law, including on the Internet.
 
 * Decision of the Moscow Arbitration court as of 28 may 2012 in case no. A40-25696/2012*
 ```
-Thus, it should be noted that the plaintiff as the right holder has an exclusive (priority)
-right to use its trademark in any manner not contrary to the law, including
-the Internet.
+Thus, it should be noted that the plaintiff as the right holder has an exclusive (priority) right to use its 
+trademark in any manner not contrary to the law, including the Internet.
 ```
 
 <br>
