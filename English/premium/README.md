@@ -40,7 +40,7 @@ Take a few more minutes of your time to read the text below and learn how to do 
 1. 	**Flexible system of sorting, filtering and grouping of cases.** To make a sample of cases where the defendants are domain registrars? It's easy. To determine the list of cases of Russian plaintiffs who received compensation in cases on domains? Also simple and in a couple of clicks.
 2. 	**The names of the parties cases.** Among others, there are cases in which participants were Apple, Google, KAMAZ, Bolshoi theater, Samsung, Sberbank and other well-known companies and individuals.
 3. 	**Easy modification.** Unnecessary data and partitions are easy to delete. New sections can be quickly added, merged, selected. Come up with your own criteria and parameters and add them.
-4. 	** The database is ready for data analysis.** Is it necessary to determine the total amount of compensation awarded in favor of foreign automakers? The base will help. Interested in success in this field of plaintiffs from Switzerland, Japan, China? Satisfy your interest.
+4. 	**The database is ready for data analysis.** Is it necessary to determine the total amount of compensation awarded in favor of foreign automakers? The base will help. Interested in success in this field of plaintiffs from Switzerland, Japan, China? Satisfy your interest.
 
 ### Specifications
 Quite minimal. Kardamon database.Dm can be provided in XLS, CSV, XML, TXT, PDF formats. Therefore, it is suitable for any OS - desktop (Windows, MacOS, Linux family) and mobile (Andorid, iOS) - which has software that allows you to work with files of the appropriate format (Microsoft Office, Libre Office, etc.).
