@@ -25,6 +25,8 @@
 #### Суд по интеллектуальным правам
 
 * [Справка по вопросам, возникающим при рассмотрении доменных споров](http://ipcmagazine.ru/official-cronicle/the-questions-that-arise-when-considering-domain-disputes)
+* [Суд по интеллектуальным правам обязал регистраторов доменов блокировать нелегальный контент по требованию правообладателей
+](http://www.lidings.com/ru/legalupdates2?id=378)
 
 #### ICANN
 * [Правила рассмотрения споров о доменных именах](https://www.icann.org/resources/pages/dndr-2012-02-25-ru) | html
