@@ -58,8 +58,8 @@ The same conclusion may be found in other judicial acts, such as:
 * Decision of the Moscow Arbitration court as of 03 November 2011 in case no. A40-73876/2011*
 ```
 Assessing the evidence presented, the court concluded that the actual use of the resources of the website on which 
-the information is placed is impossible without participation in any manner of domain administrator, owning a password 
-to place information on the appropriate domain name in the Internet website.
+the information is placed is impossible without participation in any manner of domain administrator, owning a 
+password to place information on the appropriate domain name in the Internet website.
 So, the website owner should be responsible for posting information that is contrary to the law, since he is the 
 person who created the appropriate technical conditions for visitors to his Internet resource.
 ```
