@@ -6,6 +6,7 @@
 * [Доменный спор по правам человека](https://www.rbc.ru/newspaper/2014/01/16/56bfa97f9a7947299f72d71e)
 * [Как отсудить захваченый домен, если ты не компания](https://habr.com/post/265239/)
 * [Надлежащий ответчик по доменным спорам](https://bardov.legal/faq/nadlezhashchiy-otvetchik-po-domennym-sporam)
+* [Оспаривание прав на доменное имя](https://www.law.ru/question/36526-osparivanie-prav-na-domennoe-imya) | ₽
 
 #### Подсудность и подведомственность
 * [Компетенция государственных судов по рассмотрению доменных споров](https://cyberleninka.ru/article/v/kompetentsiya-gosudarstvennyh-sudov-po-rassmotreniyu-domennyh-sporov) | pdf
