@@ -1,4 +1,4 @@
-*(c) Денис Доротенко, 2018* / *[Лицензия](https://github.com/xCounsel/kardamon/blob/master/Russian/LICENSE.md)* / *[Предупреждение](https://github.com/xCounsel/kardamon/blob/master/Russian/DISCLAIMER.md)* / *[Об авторе и правообладателе](http://dorotenko.pro/about/)*
+*(c) Денис Доротенко, 2018* / *[Лицензия](https://github.com/xCounsel/kardamon/blob/master/Russian/LICENSE.md)* / *[Предупреждение](https://github.com/xCounsel/kardamon/blob/master/Russian/DISCLAIMER.md)* / *[Об авторе](http://dorotenko.pro/about/)*
 
 <br/>
 
