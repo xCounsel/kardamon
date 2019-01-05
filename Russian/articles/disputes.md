@@ -1,3 +1,7 @@
+*(c) Денис Доротенко, 2018* / *[Лицензия](https://github.com/xCounsel/kardamon/blob/master/Russian/LICENSE.md)* / *[Предупреждение](https://github.com/xCounsel/kardamon/blob/master/Russian/DISCLAIMER.md)* / *[Об авторе](http://dorotenko.pro/about/)*
+
+<br/>
+
 
 * [Пошаговая инструкция при доменных спорах](https://cctld.ru/ru/activities/faq/disputs/instruction.php)
 * [Принцип добросовестности как правовая основа разрешения доменных споров](https://cyberleninka.ru/article/v/printsip-dobrosovestnosti-kak-pravovaya-osnova-razresheniya-domennyh-sporov) | pdf
