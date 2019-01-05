@@ -1,6 +1,10 @@
+*(c) Денис Доротенко, 2018* / *[Лицензия](https://github.com/xCounsel/kardamon/blob/master/Russian/LICENSE.md)* / *[Предупреждение](https://github.com/xCounsel/kardamon/blob/master/Russian/DISCLAIMER.md)* / *[Об авторе](http://dorotenko.pro/about/)*
+
+<br/>
+
 ----
 
-Авторские материалы:
+Материалы автора Kardamon:
 
 * [Подборки судебных решений. Такие разные доменные споры](http://dorotenko.pro/court-cases-domains/)
 * [Ответственность в 3D: дистрибьютор, дилер, домен](http://dorotenko.pro/dealers-and-domains/)
