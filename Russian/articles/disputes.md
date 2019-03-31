@@ -12,6 +12,7 @@
 * [Надлежащий ответчик по доменным спорам](https://bardov.legal/faq/nadlezhashchiy-otvetchik-po-domennym-sporam)
 * [Как не потерять права на домен: четыре практических вывода](https://rb.ru/opinion/pravo-na-domen/)
 * [Оспаривание прав на доменное имя](https://www.law.ru/question/36526-osparivanie-prav-na-domennoe-imya) | ₽
+* [Доменные споры: обзор судебной практики](https://lezhnev.org/publikacii/domennye-spory)
 
 #### Подсудность и подведомственность
 * [Компетенция государственных судов по рассмотрению доменных споров](https://cyberleninka.ru/article/v/kompetentsiya-gosudarstvennyh-sudov-po-rassmotreniyu-domennyh-sporov) | pdf
