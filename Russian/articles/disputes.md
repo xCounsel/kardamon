@@ -2,6 +2,7 @@
 
 <br/>
 
+#### Общие аспекты
 
 * [Пошаговая инструкция при доменных спорах](https://cctld.ru/ru/activities/faq/disputs/instruction.php)
 * [Принцип добросовестности как правовая основа разрешения доменных споров](https://cyberleninka.ru/article/v/printsip-dobrosovestnosti-kak-pravovaya-osnova-razresheniya-domennyh-sporov) | pdf
@@ -12,16 +13,20 @@
 * [Надлежащий ответчик по доменным спорам](https://bardov.legal/faq/nadlezhashchiy-otvetchik-po-domennym-sporam)
 * [Оспаривание прав на доменное имя](https://www.law.ru/question/36526-osparivanie-prav-na-domennoe-imya) | ₽
 * [Доменные споры: обзор судебной практики](https://lezhnev.org/publikacii/domennye-spory)
+* [Доменные войны. Сравнение российского и зарубежного опыта](https://zakon.ru/blog/2012/02/29/domennye_vojnysravnenie_rossijskogo_i_zarubezhnogo_opyta)
 
 #### Подсудность и подведомственность
+* [Доменные споры: по процедуре UDRP или российскому законодательству](http://rapsinews.ru/legislation_publication/20120723/263884805.html)
 * [Компетенция государственных судов по рассмотрению доменных споров](https://cyberleninka.ru/article/v/kompetentsiya-gosudarstvennyh-sudov-po-rassmotreniyu-domennyh-sporov) | pdf
 * [Подведомственность доменных споров с участием физических лиц](https://cyberleninka.ru/article/v/podvedomstvennost-domennyh-sporov-s-uchastiem-fizicheskih-lits) | pdf
-* [Доменные споры: по процедуре UDRP или российскому законодательству](http://rapsinews.ru/legislation_publication/20120723/263884805.html)
 * [Доменные споры с участием в качестве стороны физического лица без статуса ИП: в какой суд идти?](https://zakon.ru/blog/2015/6/30/domennye_spory_s_uchastiem_v_kachestve_storony_fizicheskogo_lica_bez_statusa_ip_v_kakoj_sud_idti)
+* [О подведомственности доменных споров с участием иностранных лиц](https://zakon.ru/blog/2019/3/19/o_podvedomstvennosti_domennyh_sporov_s_uchastiem_inostrannyh_lic)
 * [Тенденции рассмотрения доменных споров в судах. Куда обращаться?](https://zuykov.com/ru/about/articles/2016/09/12/tendencii-rassmotreniya-domennyh-sporov-v-sudah-ku/)
+
 
 #### Обеспечительные меры
 * [Проблема обозначений участников доменных споров: некоторые пояснения для целей рассмотрения дел и применения обеспечительных мер](http://ipcmagazine.ru/legal-issues/the-problem-domain-disputes-designations-participants-some-explanations-for-the-purpose-of-consideration-of-cases-and-the-use-of-interim-measures)
+* [Применение обеспечительных мер по доменному спору // Постановление президиума Суда по интеллектуальным правам](https://zakon.ru/blog/2013/10/30/primenenie_obespechitelnyx_mer_po_domennomu_sporu__postanovlenie_prezidiuma_suda_po_intellektualnym_)
 
 #### Недобросовестная конкуренция
 * [ООО «ККУ «Концерн «Тракторные заводы» правомерно пожаловалось на недобросовестную конкуренцию со стороны ООО «ЧебАгроЗапчасть»](http://chuvashia.fas.gov.ru/news/11925)
