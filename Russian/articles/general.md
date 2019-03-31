@@ -5,3 +5,4 @@
 * [Правовые аспекты доменного пространства](https://habr.com/company/digitalrightscenter/blog/347598/)
 * [Доменное имя и интеллектуальная собственность ](https://zakon.ru/blog/2018/8/6/domennoe_imya_i_intellektualnaya_sobstvennost)
 * [Как не потерять права на домен: четыре практических вывода](https://rb.ru/opinion/pravo-na-domen/)
+* [О правовом статусе документов, регулирующих регистрацию доменных имен и споров по ним](https://zakon.ru/publication/igzakon/4967) | ₽
