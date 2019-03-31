@@ -14,6 +14,7 @@
 * [Оспаривание прав на доменное имя](https://www.law.ru/question/36526-osparivanie-prav-na-domennoe-imya) | ₽
 * [Доменные споры: обзор судебной практики](https://lezhnev.org/publikacii/domennye-spory)
 * [Доменные войны. Сравнение российского и зарубежного опыта](https://zakon.ru/blog/2012/02/29/domennye_vojnysravnenie_rossijskogo_i_zarubezhnogo_opyta)
+* [Как отсудить домен](https://delo.modulbank.ru/it/domen)
 
 #### Подсудность и подведомственность
 * [Доменные споры: по процедуре UDRP или российскому законодательству](http://rapsinews.ru/legislation_publication/20120723/263884805.html)
