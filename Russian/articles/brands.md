@@ -26,6 +26,7 @@
 * [Tissot AG отстоял доменное имя](https://www.kommersant.ru/doc/1874135)
 * [Товарный знак или доменное имя: что главнее?](http://rapsinews.ru/judicial_analyst/20100715/250398792.html)
 * [Домен не достался обладателю товарного знака](https://habr.com/company/webnames/blog/170359/)
+* [Отдельные вопросы судебной защиты доменного имени и товарного знака](https://zakon.ru/publication/igzakon/5589) | ₽
 
 #### Фирменные наименования
 
