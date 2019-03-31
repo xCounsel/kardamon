@@ -18,6 +18,7 @@
 * [Компетенция государственных судов по рассмотрению доменных споров](https://cyberleninka.ru/article/v/kompetentsiya-gosudarstvennyh-sudov-po-rassmotreniyu-domennyh-sporov) | pdf
 * [Подведомственность доменных споров с участием физических лиц](https://cyberleninka.ru/article/v/podvedomstvennost-domennyh-sporov-s-uchastiem-fizicheskih-lits) | pdf
 * [Доменные споры: по процедуре UDRP или российскому законодательству](http://rapsinews.ru/legislation_publication/20120723/263884805.html)
+* [Доменные споры с участием в качестве стороны физического лица без статуса ИП: в какой суд идти?](https://zakon.ru/blog/2015/6/30/domennye_spory_s_uchastiem_v_kachestve_storony_fizicheskogo_lica_bez_statusa_ip_v_kakoj_sud_idti)
 
 #### Обеспечительные меры
 * [Проблема обозначений участников доменных споров: некоторые пояснения для целей рассмотрения дел и применения обеспечительных мер](http://ipcmagazine.ru/legal-issues/the-problem-domain-disputes-designations-participants-some-explanations-for-the-purpose-of-consideration-of-cases-and-the-use-of-interim-measures)
