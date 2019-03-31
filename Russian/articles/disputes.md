@@ -28,6 +28,7 @@
 #### Обеспечительные меры
 * [Проблема обозначений участников доменных споров: некоторые пояснения для целей рассмотрения дел и применения обеспечительных мер](http://ipcmagazine.ru/legal-issues/the-problem-domain-disputes-designations-participants-some-explanations-for-the-purpose-of-consideration-of-cases-and-the-use-of-interim-measures)
 * [Применение обеспечительных мер по доменному спору // Постановление президиума Суда по интеллектуальным правам](https://zakon.ru/blog/2013/10/30/primenenie_obespechitelnyx_mer_po_domennomu_sporu__postanovlenie_prezidiuma_suda_po_intellektualnym_)
+* [О досудебных ограничениях на действия со спорным доменным именем и их соотношении с обязательным досудебным порядком урегулирования спора](https://cctld.ru/files/books/pretrial.pdf)
 
 #### Недобросовестная конкуренция
 * [ООО «ККУ «Концерн «Тракторные заводы» правомерно пожаловалось на недобросовестную конкуренцию со стороны ООО «ЧебАгроЗапчасть»](http://chuvashia.fas.gov.ru/news/11925)
