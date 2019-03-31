@@ -3,3 +3,4 @@
 <br/>
 
 * [Правовые аспекты доменного пространства](https://habr.com/company/digitalrightscenter/blog/347598/)
+* [Как не потерять права на домен: четыре практических вывода](https://rb.ru/opinion/pravo-na-domen/)
