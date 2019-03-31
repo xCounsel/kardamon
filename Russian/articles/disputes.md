@@ -10,7 +10,6 @@
 * [Доменный спор по правам человека](https://www.rbc.ru/newspaper/2014/01/16/56bfa97f9a7947299f72d71e)
 * [Как отсудить захваченый домен, если ты не компания](https://habr.com/post/265239/)
 * [Надлежащий ответчик по доменным спорам](https://bardov.legal/faq/nadlezhashchiy-otvetchik-po-domennym-sporam)
-* [Как не потерять права на домен: четыре практических вывода](https://rb.ru/opinion/pravo-na-domen/)
 * [Оспаривание прав на доменное имя](https://www.law.ru/question/36526-osparivanie-prav-na-domennoe-imya) | ₽
 * [Доменные споры: обзор судебной практики](https://lezhnev.org/publikacii/domennye-spory)
 
@@ -19,6 +18,7 @@
 * [Подведомственность доменных споров с участием физических лиц](https://cyberleninka.ru/article/v/podvedomstvennost-domennyh-sporov-s-uchastiem-fizicheskih-lits) | pdf
 * [Доменные споры: по процедуре UDRP или российскому законодательству](http://rapsinews.ru/legislation_publication/20120723/263884805.html)
 * [Доменные споры с участием в качестве стороны физического лица без статуса ИП: в какой суд идти?](https://zakon.ru/blog/2015/6/30/domennye_spory_s_uchastiem_v_kachestve_storony_fizicheskogo_lica_bez_statusa_ip_v_kakoj_sud_idti)
+* [Тенденции рассмотрения доменных споров в судах. Куда обращаться?](https://zuykov.com/ru/about/articles/2016/09/12/tendencii-rassmotreniya-domennyh-sporov-v-sudah-ku/)
 
 #### Обеспечительные меры
 * [Проблема обозначений участников доменных споров: некоторые пояснения для целей рассмотрения дел и применения обеспечительных мер](http://ipcmagazine.ru/legal-issues/the-problem-domain-disputes-designations-participants-some-explanations-for-the-purpose-of-consideration-of-cases-and-the-use-of-interim-measures)
