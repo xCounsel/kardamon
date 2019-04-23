@@ -46,7 +46,7 @@ Take a few more minutes of your time to read the text below and learn how to do 
 Quite minimal. Kardamon database.Dm can be provided in XLS, CSV, XML, TXT, PDF formats. Therefore, it is suitable for any OS - desktop (Windows, MacOS, Linux family) and mobile (Andorid, iOS) - which has software that allows you to work with files of the appropriate format (Microsoft Office, Libre Office, etc.).
 
 ### Database files
-A demo version is available [here](https://dorotenko.pro/kardamon). To get full version, please contact me - I will provide with information about the terms and conditions of its provision. I can also give advice on what additional knowledge can be learned from its data.
+A demo version is available [here](https://dorotenko.pro/kardamon-en). To get full version, please contact me - I will provide with information about the terms and conditions of its provision. I can also give advice on what additional knowledge can be learned from its data.
 
 <br/>
 
