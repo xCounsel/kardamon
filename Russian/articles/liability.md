@@ -7,6 +7,7 @@
 * [Что нужно знать администратору домена об ответственности за пиратский контент — мнение юриста](https://vc.ru/flood/22496-responsibility-of-administrator)
 * [Регистратор доменных имен как инфопосредник](https://www.vegaslex.ru/analytics/publications/domain_name_registrar_as_infopoint/)
 * [Ответственность информационного посредника за нарушение прав на товарный знак](https://blog.pravo.ru/blog/33841.html)
+* [Администраторы доменных имен как ответчики в доменных спорах](http://www.garant.ru/ia/opinion/author/dorotenko/1275783/)
 
 <br/>
 
