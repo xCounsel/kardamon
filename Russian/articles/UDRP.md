@@ -22,3 +22,4 @@
 * [О правовой природе альтернативных разбирательств доменных споров](http://arbitrationreview.ru/wp-content/uploads/2017/10/%E2%84%96-1-2017-vestnik1.pdf) | pdf
 * [Как вернуть украденный домен через арбитраж WIPO. Пошаговая инструкция](https://habr.com/post/346906/)
 * [Можно ли вернуть просроченный домен через процедуру UDRP?](https://habr.com/company/webnames/blog/210158/)
+* [Альтернативное рассмотрение доменных споров](http://ipcmagazine.ru/legal-issues/alternative-domain-dispute-resolution)
