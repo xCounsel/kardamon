@@ -7,7 +7,7 @@
 * [Как не потерять права на домен: четыре практических вывода](https://rb.ru/opinion/pravo-na-domen/)
 * [О правовом статусе документов, регулирующих регистрацию доменных имен и споров по ним](https://zakon.ru/publication/igzakon/4967) | ₽
 * [Домены и товарные знаки в Рунете](https://cctld.ru/ru/domains/trademark/analytics/)
-* [Проблемы праввового регулирования доменного имени в российском гражданском праве](https://cyberleninka.ru/article/v/problemy-pravovogo-regulirovaniya-domennogo-imeni-v-rossiyskom-grazhdanskom-prave)
+* [Проблемы правового регулирования доменного имени в российском гражданском праве](https://cyberleninka.ru/article/v/problemy-pravovogo-regulirovaniya-domennogo-imeni-v-rossiyskom-grazhdanskom-prave)
 
 
 <br/>
