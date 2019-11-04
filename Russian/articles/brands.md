@@ -38,3 +38,4 @@
 
 * Беларусь // [Использование в доменном имени чужого фирменного наименования или товарного знака](http://court.gov.by/upload/111111/v_o_sv_1_15.pdf) | pdf
 * Казахстан // [Битва за домен](https://www.zakon.kz/4643476-bitva-za-domen-g.-zapparova-sudja.html)
+* Индия // [Domain name and Trademark rights in India](https://www.lexology.com/library/detail.aspx?g=daaafca2-6a68-4134-bd29-27aa941a1f03)
