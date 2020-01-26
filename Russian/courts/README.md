@@ -1,8 +1,5 @@
-*(c) Денис Доротенко, 2018* / *[Лицензия](https://github.com/xCounsel/kardamon/blob/master/Russian/LICENSE.md)* / *[Предупреждение](https://github.com/xCounsel/kardamon/blob/master/Russian/DISCLAIMER.md)* / *[Об авторе Kardamon](http://dorotenko.pro/about/)*
-
-<br/>
-
 ## Kardamon. Судебная практика 
+
 В этом разделе собраны позиции и выводы российских судов, сгруппированные по тематикам. <br/>
 Так, например, вы можете узнать: 
 * что (по мнению суда) включает в себя администрирование доменных имен 
