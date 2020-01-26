@@ -1,5 +1,3 @@
-*(c) [Denis Dorotenko](http://linkedin.com/in/dorotenko/), 2018*
-
 # Доказательства в делах по доменным именам 
 
 ----
