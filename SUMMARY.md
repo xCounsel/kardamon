@@ -12,7 +12,7 @@
 
 ## Kardamon (на русском) :ru:
 
-* [README](https://github.com/xCounsel/kardamon/blob/master/English/README.md)
+* [README](/Russian/README.md)
 
 * [Судебная практика](/Russian/courts)    
     * [Технические аспекты доменных имен](/Russian/courts/evidence.md)    
