@@ -1,19 +1,19 @@
 # Summary
 
-## Kardamon (in English)
+## Kardamon (in English) :uk:
 
-* [README](https://github.com/xCounsel/kardamon/blob/master/English/README.md)    
+* [README](/English/README.md)    
     * [Some child page](page1/page1-1.md)    
     * [Some other child page](part1/page1-2.md)
 
-* [DISCLAIMER](https://github.com/xCounsel/kardamon/blob/master/DISCLAIMER.md)
+* [DISCLAIMER](/DISCLAIMER.md)
 
 ----
 
-## Kardamon (на русском)
+## Kardamon (на русском) :ru:
 
 * [README](https://github.com/xCounsel/kardamon/blob/master/English/README.md)
 
-* [СУДЕБНАЯ ПРАКТИКА](/Russian/courts)    
+* [Судебная практика](/Russian/courts)    
     * [Фирменные наименования](/Russian/courts/fn.md)    
     * [Компенсаци](/Russian/courts/compensation.md)    
