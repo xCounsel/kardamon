@@ -12,6 +12,6 @@
 
 * [README](https://github.com/xCounsel/kardamon/blob/master/English/README.md)
 
-* [СУДЕБНАЯ ПРАКТИКА](https://github.com/xCounsel/kardamon/tree/master/Russian/courts)    
-    * [Фирменные наименования](https://github.com/xCounsel/kardamon/blob/master/Russian/courts/fn.md)    
-    * [Компенсаци](https://github.com/xCounsel/kardamon/blob/master/Russian/courts/compensation.md)    
+* [СУДЕБНАЯ ПРАКТИКА](/Russian/courts)    
+    * [Фирменные наименования](/Russian/courts/fn.md)    
+    * [Компенсаци](/Russian/courts/compensation.md)    
