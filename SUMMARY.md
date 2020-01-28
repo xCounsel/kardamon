@@ -8,6 +8,8 @@
 
 * [DISCLAIMER](https://github.com/xCounsel/kardamon/blob/master/DISCLAIMER.md)
 
+----
+
 ## Kardamon (на русском)
 
 * [README](https://github.com/xCounsel/kardamon/blob/master/English/README.md)
