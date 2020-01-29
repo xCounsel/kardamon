@@ -15,7 +15,7 @@
 * [README](/Russian/README.md)
 
 * [Судебная практика](/Russian/courts)    
-    * [Технические аспекты доменных имен](/Russian/courts/evidence.md)    
+    * [Технические аспекты доменных имен](/Russian/courts/tech.md)    
     * [Администрирование доменных имен](/Russian/courts/admin.md)    
     * [Доказательства в доменных спорах](/Russian/courts/evidence.md)    
     * [Товарные знаки и доменные имена (ч1)](/Russian/courts/tz.md)    
