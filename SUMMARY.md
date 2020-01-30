@@ -14,6 +14,8 @@
 
 * [README](/Russian/README.md)
 
+* [Premium](/Russian/premium/README.md)
+
 * [Судебная практика](/Russian/courts/README.md)    
     * [Технические аспекты доменных имен](/Russian/courts/tech.md)    
     * [Администрирование доменных имен](/Russian/courts/admin.md)    
