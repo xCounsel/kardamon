@@ -15,6 +15,10 @@
 * [README](/Russian/README.md)
 
 * [Premium](/Russian/premium/README.md)
+* [Документы](/Russian/docs.README.md)
+    * [Исковые и иные заявления](/Russian/docs/lawsuits.md)    
+    * [Договоры и соглашения](/Russian/docs/agreements.md)
+    * [Претензии](/Russian/docs/claims.md)
 
 * [Судебная практика](/Russian/courts/README.md)    
     * [Технические аспекты доменных имен](/Russian/courts/tech.md)    
