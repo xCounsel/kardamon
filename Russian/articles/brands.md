@@ -1,9 +1,3 @@
-{% hint style="danger" %}
-*(c) Денис Доротенко, 2018* / *[Лицензия](https://github.com/xCounsel/kardamon/blob/master/Russian/LICENSE.md)* / *[Предупреждение](https://github.com/xCounsel/kardamon/blob/master/Russian/DISCLAIMER.md)* / *[Об авторе](http://dorotenko.pro/about/)*
-{% endhint %}
-
-<br/>
-
 ----
 {% hint style="info" %}
 Читать материалы по теме от автора Kardamon:
@@ -42,3 +36,7 @@
 * Беларусь // [Использование в доменном имени чужого фирменного наименования или товарного знака](http://court.gov.by/upload/111111/v_o_sv_1_15.pdf) | pdf
 * Казахстан // [Битва за домен](https://www.zakon.kz/4643476-bitva-za-domen-g.-zapparova-sudja.html)
 * Индия // [Domain name and Trademark rights in India](https://www.lexology.com/library/detail.aspx?g=daaafca2-6a68-4134-bd29-27aa941a1f03)
+
+{% hint style="warning" %}
+*(c) Денис Доротенко, 2018* / *[Лицензия](https://github.com/xCounsel/kardamon/blob/master/Russian/LICENSE.md)* / *[Предупреждение](https://github.com/xCounsel/kardamon/blob/master/Russian/DISCLAIMER.md)* / *[Об авторе](http://dorotenko.pro/about/)*
+{% endhint %}
