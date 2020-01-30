@@ -25,8 +25,5 @@
     * [Фирменные наименования](/Russian/courts/fn.md)    
     * [Компенсации](/Russian/courts/compensation.md)    
     
-* [Диссертации](/Russian/abstracts)
-    * [README](/Russian/abstracts/README.md)
-    * [Диссертации](/Russian/abstracts/abstracts.md)
-    
+* [Диссертации](/Russian/abstracts/README.md)    
     
