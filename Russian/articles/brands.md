@@ -3,11 +3,12 @@
 <br/>
 
 ----
-
-Материалы автора Kardamon:
+{% hint style="info" %}
+Читать материалы по теме от автора Kardamon:
 
 * [Подборки судебных решений. Такие разные доменные споры](http://dorotenko.pro/court-cases-domains/)
 * [Ответственность в 3D: дистрибьютор, дилер, домен](http://dorotenko.pro/dealers-and-domains/)
+{% endhint %}
 
 ----
 
