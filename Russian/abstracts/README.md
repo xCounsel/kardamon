@@ -1,4 +1,3 @@
-
 ## Диссертации по доменным именам
 
 В этом разделе собраны ссылки на авторефераты диссертаций и диссертации, исследующих те или иные юридические аспекты в отношении доменных имен.
@@ -6,7 +5,6 @@
 <br/>
 
 ----
-
 
 * Правовой режим доменного имени в России и США | [диссертация](http://ecommercelaw.ru/sites/default/files/gladkaya-180914-d.pdf) | pdf
 * Регламентация правоотношений, связанных с доменными именами | [автореферат](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=81&cad=rja&uact=8&ved=2ahUKEwjZi4ev-czdAhWEOSwKHbi9C6I4UBAWMAB6BAgDEAI&url=https%3A%2F%2Fvivaldi.nlr.ru%2Fbd000104245%2Ffile&usg=AOvVaw1TkmIA5JjVoCJrKnVXBviB) | pdf
