@@ -23,7 +23,7 @@
     * [Фирменные наименования](/Russian/courts/fn.md)    
     * [Компенсации](/Russian/courts/compensation.md)    
 
- * [Книги](/Russian/books/README.md)    
+* [Книги](/Russian/books/README.md)    
     * [Книги на английском языке](/Russian/books/English.md)    
     * [Книги на русском языке](/Russian/books/Russian.md)    
 
