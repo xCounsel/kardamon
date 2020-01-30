@@ -1,18 +1,10 @@
 # Summary
 
-## Kardamon (in English) :uk:
-
-* [README](/English/README.md)    
-    * [Some child page](page1/page1-1.md)    
-    * [Some other child page](part1/page1-2.md)
-
-* [DISCLAIMER](/DISCLAIMER.md)
-
 ----
 
-## Kardamon (на русском) :ru:
+## Доменные имена
 
-* [README](/Russian/README.md)
+* [Главная страница](/Russian/README.md)
 * [Premium](/Russian/premium/README.md)
 * [Статьи](/Russian/articles/README.md)
     * [Общая информация](/Russian/articles/general.md)       
@@ -52,4 +44,6 @@
 * [Книги](/Russian/books/README.md)    
     * [На английском языке](/Russian/books/English.md)    
     * [На русском языке](/Russian/books/Russian.md)    
-    
+* [Лицензия](/Russian/LICENSE.md)
+* [DISCLAIMER](/DISCLAIMER.md)
+* [Упоминания о Kardamon](/Russian/REFERENCES.md)
