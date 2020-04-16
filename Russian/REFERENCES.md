@@ -5,6 +5,7 @@
 <br/>
 
 * 30.01.2020 // worldtrademarkreview.com // [Domain disputes in Russia: how to get the most compensation in Russian courts](https://www.worldtrademarkreview.com/brand-management/domain-disputes-in-russia-how-get-most-compensation-in-russian-courts)
+* 20.01.2020 // lfacademy.ru // [Судись и сокращай: что ждет зарубежных истцов по доменным спорам в России](https://lfacademy.ru/sphere/post/sudis-i-sokraschai-chto-zhdet-zarubezhnyh-istcov-po-domennym-sporam-v-rossii)
 * 01.12.2019 // lfacademy.ru // [Зарубежные истцы в российских доменных спорах](https://lfacademy.ru/course/2232751)
 * 01.10.2019 // igzakon.ru // [Д.А. Доротенко Такие разные доменные споры. О компенсациях](https://igzakon.ru/magazine535) | pdf | ₽
 * 30.08.2019 // epam.ru // [Kardamon. Аналитика доменных споров](https://epam.ru/rus/events/view/vstrecha-diskussionnogo-kluba-yuristov-it-otrasli-79578)
