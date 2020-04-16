@@ -15,6 +15,7 @@
 * [Доменные споры: обзор судебной практики](https://lezhnev.org/publikacii/domennye-spory)
 * [Доменные войны. Сравнение российского и зарубежного опыта](https://zakon.ru/blog/2012/02/29/domennye_vojnysravnenie_rossijskogo_i_zarubezhnogo_opyta)
 * [Как отсудить домен](https://delo.modulbank.ru/it/domen)
++ [Как защитить свой домен: до суда, в суде и после суда](https://lfacademy.ru/sphere/post/kak-zaschitit-svoi-domen-do-suda-v-sude-i-posle-suda)
 
 #### Подсудность и подведомственность
 * [Доменные споры: по процедуре UDRP или российскому законодательству](http://rapsinews.ru/legislation_publication/20120723/263884805.html)
@@ -35,6 +36,7 @@
 
 #### Компенсации
 * [Такие разные доменные споры. О компенсациях](http://dorotenko.pro/publication-domain-disputes-on-compensation/)
+* [Судись и сокращай: что ждет зарубежных истцов по доменным спорам в России](https://lfacademy.ru/sphere/post/sudis-i-sokraschai-chto-zhdet-zarubezhnyh-istcov-po-domennym-sporam-v-rossii)
 
 #### Зарубежный опыт
 
