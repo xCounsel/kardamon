@@ -6,8 +6,6 @@
 * [Cходство как основание признать регистрацию доменного имени незаконной](https://github.com/xCounsel/kardamon/blob/master/Russian/courts/fn.md#При-сходстве-до-степени-смешения-с-фирменным-наименованием-регистрация-доменного-имени-может-быть-признана-незаконной)
 * [Отсутствовие законных прав или интересов на доменное имя](fn.md)
 
-[https://dorotenko.pro/ru/domain-disputes-theatres/](https://dorotenko.pro/ru/domain-disputes-theatres/)
-
 ## Cовпадение как злоупотребление технической уникальностью
 
 {% hint style="success" %}
