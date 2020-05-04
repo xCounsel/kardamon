@@ -7,15 +7,7 @@
 * [Длительность незаконного использования доменного имени и объем реализованного товара](https://github.com/xCounsel/kardamon/blob/master/Russian/courts/compensation.md#На-размер-компенсации-влияет-длительность-незаконного-использования-доменного-имени-и-объем-реализованного-с-его-использованием-товара)
 * [Ответчик является физическим лицом](https://github.com/xCounsel/kardamon/blob/master/Russian/courts/compensation.md#На-размер-компенсации-влияет-тот-факт-что-ответчик-является-физическим-лицом)
 
-{% hint style="info" %}
-_Читать статью_ [_Такие разные доменные споры. О компенсациях_](http://dorotenko.pro/publication-domain-disputes-on-compensation/) _на сайте Дениса Доротенко, автора проекта Kardamon. Из нее вы узнаете о судебной практике по доменным спорам в части компенсаций за нарушение интеллектуальных прав истцов._
-
-\_\_[_https://dorotenko.pro/ru/publication-domain-disputes-on-compensation/_](https://dorotenko.pro/ru/publication-domain-disputes-on-compensation/)\_\_
-{% endhint %}
-
 {% embed url="https://dorotenko.pro/ru/publication-domain-disputes-on-compensation/" caption="Узнайте особенности компенсаций в доменных спорах  в России" %}
-
-\_\_
 
 ## Длительность незаконного использования доменного имени и объем реализованного товара
 
