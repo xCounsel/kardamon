@@ -1,4 +1,4 @@
-# DISCLAIMER
+# Отказ от ответственности
 
 Take into account the following.
 

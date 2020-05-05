@@ -1,4 +1,4 @@
-# Документы
+# Примеры документов
 
 _\(c\) Денис Доротенко, 2018_ / [_Лицензия_](https://github.com/xCounsel/kardamon/blob/master/Russian/LICENSE.md) / [_Предупреждение_](https://github.com/xCounsel/kardamon/blob/master/Russian/DISCLAIMER.md) / [_Об авторе и правообладателе_](http://dorotenko.pro/about/)
 
