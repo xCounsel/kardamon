@@ -1,8 +1,21 @@
 # Товарные знаки и доменные имена \(ч1\)
 
-**Содержание:**
+## Содержание
 
-* [Функция индивидуализации у доменных имен](tz.md#функция-индивидуализации-у-доменных-имен)
+{% tabs %}
+{% tab title="Содержание" %}
+* [Функция индивидуализации у доменных имен](tz.md#funkciya-individualizacii-u-domennykh-imen)
+* [Виды сходства доменного имени с товарным знаком](tz.md#skhodstvo-domennogo-imeni-s-tovarnym-znakom-mozhet-byt-zvukovym-graficheskim-i-smyslovym)
+* [Сходство доменного имени и товарного знака по латинским буквам](tz.md#ispolzovanie-bukv-latinskogo-shrifta-ne-yavlyaetsya-barerom-dlya-priznaniya-vizualnogo-skhodstva-mezhdu-domennym-imenem-i-tovarnym-znakom)
+* [Привлечение потребителей доменным именем, как и товарным знаком](tz.md#vladenie-domennym-imenem-identichnym-tovarnomu-znaku-pozvolyaet-privlekat-potrebitelei-uslug-analogichnykh-tem-dlya-kotorykh-ispolzuetsya-tovarnyi-znak)
+* [Регистрация доменного имени препятствует использовать товарный знак ](tz.md#registraciya-domennogo-imeni-skhodnogo-do-stepeni-smesheniya-s-tovarnym-znakom-prepyatstvuet-ispolzovat-tovarnyi-znak-v-internete)
+* [Открытие страницы сайта как незаконное использование товарного знака](tz.md#otkrytie-internet-stranicy-s-domennym-imenem-identichnym-tovarnomu-znaku-mozhet-byt-priznano-nezakonnym-ispolzovaniem-tovarnogo-znaka)
+* [Администрирование доменного имени как использование товарного знака](tz.md#administrirovanie-domennogo-imeni-skhodnogo-do-stepeni-smesheniya-s-vsemirno-izvestnym-tovarnym-znakom-yavlyaetsya-ispolzovaniem-takogo-tovarnogo-znaka)
+* [Неправомерное администрирование как нарушение прав на товарный знак](tz.md#nepravomernoe-administrirovanie-spornogo-domennogo-imeni-yavlyaetsya-narusheniem-prav-na-tovarnyi-znak)
+* Неиспользование доменного имени как недобросовестная конкуренция
+* Регистрация доменного имени как злоупотребление правом
+{% endtab %}
+{% endtabs %}
 
 ## Функция индивидуализации у доменных имен
 

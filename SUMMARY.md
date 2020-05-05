@@ -28,7 +28,7 @@
   * [.РФ](domain-names/domains/rf.md)
 * [Судебная практика](domain-names/courts/README.md)
   * [Технические аспекты доменных имен](domain-names/courts/tech.md)
-  * [Правовая охрана доменных имен](domain-names/courts/pravovaya-okhrana-domennykh-imen.md)
+  * [Правовая охрана доменных имен](domain-names/courts/legal-defense.md)
   * [Администрирование доменных имен](domain-names/courts/admin.md)
   * [Доказательства в доменных спорах](domain-names/courts/evidence.md)
   * [Товарные знаки и доменные имена \(ч1\)](domain-names/courts/tz.md)

@@ -4,8 +4,8 @@
 
 {% tabs %}
 {% tab title="Содержание" %}
-* [Охрана букв доменной зоны](pravovaya-okhrana-domennykh-imen.md#okhrana-bukv-domennoi-zony)
-* [Доменное имя как объект прав](pravovaya-okhrana-domennykh-imen.md#domennoe-imya-kak-obekt-prav)
+* [Охрана букв доменной зоны](legal-defense.md#okhrana-bukv-domennoi-zony)
+* [Доменное имя как объект прав](legal-defense.md#domennoe-imya-kak-obekt-prav)
 {% endtab %}
 
 {% tab title="Статьи по теме" %}
