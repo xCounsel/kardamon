@@ -48,4 +48,6 @@
 * [Лицензия](domain-names/license.md)
 * [DISCLAIMER](domain-names/disclaimer.md)
 * [Упоминания о Kardamon](domain-names/references.md)
+* [Статьи автора про домены](https://dorotenko.pro/tag/domains/)
+* [Сайт автора](https://dorotenko.pro/ru)
 
