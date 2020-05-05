@@ -1,11 +1,21 @@
 # Компенсации
 
-**Содержание:**
+## **Содержание**
 
-\(Факторы, влияющие на размеры компенсаций по доменным спорам\)
-
+{% tabs %}
+{% tab title="Факторы компенсаций" %}
 * [Длительность незаконного использования доменного имени и объем реализованного товара](https://github.com/xCounsel/kardamon/blob/master/Russian/courts/compensation.md#На-размер-компенсации-влияет-длительность-незаконного-использования-доменного-имени-и-объем-реализованного-с-его-использованием-товара)
 * [Ответчик является физическим лицом](https://github.com/xCounsel/kardamon/blob/master/Russian/courts/compensation.md#На-размер-компенсации-влияет-тот-факт-что-ответчик-является-физическим-лицом)
+{% endtab %}
+
+{% tab title="Статьи по теме" %}
+{% embed url="https://dorotenko.pro/ru/publication-domain-disputes-on-compensation/" caption="Узнайте особенности компенсаций в доменных спорах  в России" %}
+
+{% embed url="https://dorotenko.pro/ru/court-cases-domains/" caption="Здесь доменные споры сгруппированы по размерам компенсаций" %}
+
+{% embed url="https://dorotenko.pro/ru/domain-disputes-theatres/" caption="Дан анализ компенсациям в доменных спорах учреждений культуры" %}
+{% endtab %}
+{% endtabs %}
 
 ## Длительность незаконного использования доменного имени и объем реализованного товара
 
@@ -28,14 +38,4 @@
 
 Снижая сумму компенсации до указанного размера, суд принимает во внимание, что ответчик является физическим лицом.
 {% endhint %}
-
-{% tabs %}
-{% tab title="Читать по теме" %}
-{% embed url="https://dorotenko.pro/ru/publication-domain-disputes-on-compensation/" caption="Узнайте особенности компенсаций в доменных спорах  в России" %}
-
-{% embed url="https://dorotenko.pro/ru/court-cases-domains/" caption="Здесь доменные споры сгруппированы по размерам компенсаций" %}
-
-{% embed url="https://dorotenko.pro/ru/domain-disputes-theatres/" caption="Дан анализ компенсациям в доменных спорах учреждений культуры" %}
-{% endtab %}
-{% endtabs %}
 
