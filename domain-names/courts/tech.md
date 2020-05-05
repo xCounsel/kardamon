@@ -30,10 +30,6 @@ description: >-
 * Критерии выбора доменных имен 
 {% endtab %}
 
-{% tab title="Особенности доменных имен" %}
-* 
-{% endtab %}
-
 {% tab title="Статьи по теме" %}
 {% embed url="https://dorotenko.pro/tag/domains/" %}
 {% endtab %}
