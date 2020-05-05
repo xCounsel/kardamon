@@ -29,6 +29,10 @@ description: >-
 * [Регистрация идентичных имен ](https://github.com/xCounsel/kardamon/blob/master/Russian/courts/tech.md#Регистрация-двух-и-более-идентичных-доменных-имен-технически-невозможна)
 * [Критерии выбора доменных имен ](https://github.com/xCounsel/kardamon/blob/master/Russian/courts/tech.md#При-выборе-доменных-имен-владельцы-останавливаются-на-максимально-простых-и-логичных-именах-которые-ассоциируются-у-потребителей-с-конкретным-участником-хозяйственного-оборота-или-его-деятельностью)
 {% endtab %}
+
+{% tab title="Статьи по теме" %}
+{% embed url="https://dorotenko.pro/tag/domains/" %}
+{% endtab %}
 {% endtabs %}
 
 ## Что такое Интернет
