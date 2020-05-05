@@ -11,7 +11,7 @@
 ## Доменные имена <a id="domain-names"></a>
 
 * [Главная страница](domain-names/russian.md)
-* [Статьи автора про домены](https://dorotenko.pro/tag/domains/)
+* [Статьи автора о доменах](https://dorotenko.pro/tag/domains/)
 * [Судебная практика](domain-names/courts/README.md)
   * [Технические аспекты доменных имен](domain-names/courts/tech.md)
   * [Правовая охрана доменных имен](domain-names/courts/pravovaya-okhrana-domennykh-imen.md)
