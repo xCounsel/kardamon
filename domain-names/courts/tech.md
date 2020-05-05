@@ -129,5 +129,7 @@ description: >-
 
 ## Статьи по теме
 
-Статьи на эту тему можете найти выше, во вкладке рядом с [содержанием](https://docs.dorotenko.pro/domain-names/courts/tech#soderzhanie).
+Статьи на эту тему можете найти выше, во вкладке рядом с \[содержанием\]\(\#&lt;soderzhanie&gt;\).
+
+
 
