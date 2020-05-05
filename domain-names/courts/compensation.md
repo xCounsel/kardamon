@@ -4,9 +4,10 @@
 
 {% tabs %}
 {% tab title="Факторы компенсаций" %}
-* [Длительность использования доменного имени](https://github.com/xCounsel/kardamon/blob/master/Russian/courts/compensation.md#На-размер-компенсации-влияет-длительность-незаконного-использования-доменного-имени-и-объем-реализованного-с-его-использованием-товара)
-* [Объем реализованного товара](https://github.com/xCounsel/kardamon/blob/master/Russian/courts/compensation.md#На-размер-компенсации-влияет-длительность-незаконного-использования-доменного-имени-и-объем-реализованного-с-его-использованием-товара)
-* [Ответчик - физическое лицо](https://github.com/xCounsel/kardamon/blob/master/Russian/courts/compensation.md#На-размер-компенсации-влияет-тот-факт-что-ответчик-является-физическим-лицом)
+* [Длительность использования доменного имени](compensation.md#dlitelnost-ispolzovaniya-domennogo-imeni)
+* [Объем реализованного товара](compensation.md#obem-realizovannogo-tovara)
+* [Ответчик - физическое лицо](compensation.md#otvetchik-fizicheskoe-lico)
+* [Где смотреть иные факторы](compensation.md#gde-smotret-inye-faktory)
 {% endtab %}
 
 {% tab title="Статьи по теме" %}
