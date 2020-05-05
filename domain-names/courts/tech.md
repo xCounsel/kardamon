@@ -31,9 +31,6 @@ description: >-
 {% endtab %}
 {% endtabs %}
 
-* [Охрана буквосочетания доменной зоны ](https://github.com/xCounsel/kardamon/blob/master/Russian/courts/tech.md#Буквосочетание-доменной-зоны-является-неохраняемым-элементом)
-* [Доменное имя не является объектом исключительных прав](https://github.com/xCounsel/kardamon/blob/master/Russian/courts/tech.md#Доменное-имя-не-является-объектом-исключительных-прав)
-
 ## Что такое Интернет
 
 ### Объединение устройств по связи
