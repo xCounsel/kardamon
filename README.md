@@ -1,3 +1,5 @@
+<meta name="yandex-verification" content="3d6a9e33e4f2fbc5" />
+
 # Introduction
 
 _This Readme in Russian is available_ [_here_]()_._
