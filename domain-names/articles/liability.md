@@ -1,6 +1,6 @@
 # Ответственность
 
-_\(c\) Денис Доротенко, 2018-2019_ / [_Лицензия_](https://github.com/xCounsel/kardamon/blob/master/Russian/LICENSE.md) / [_Предупреждение_](https://github.com/xCounsel/kardamon/blob/master/Russian/DISCLAIMER.md) / [_Об авторе_](http://dorotenko.pro/about/)
+_\(c\) Денис Доротенко, 2018-2020_ / [_Лицензия_](https://github.com/xCounsel/kardamon/blob/master/Russian/LICENSE.md) / [_Предупреждение_](https://github.com/xCounsel/kardamon/blob/master/Russian/DISCLAIMER.md) / [_Об авторе_](http://dorotenko.pro/about/)
 
 * [Администратор домена или редакция СМИ: кто должен нести ответственность?](https://www.kachkin.ru/sites/default/files/journal092016.pdf) | pdf
 * [Что нужно знать администратору домена об ответственности за пиратский контент — мнение юриста](https://vc.ru/flood/22496-responsibility-of-administrator)
