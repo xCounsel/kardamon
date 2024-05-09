@@ -8,4 +8,4 @@
 * Развитие интеллектуальной собственности под влиянием Интернет-среды \| [автореферат](https://bit.ly/2IMGRxJ) \| pdf
 * Пути разрешения конфликтов, возникающих при использовании доменных имен в сети Интернет \| [автореферат](http://static.freereferats.ru/_avtoreferats/01002631115.pdf) \| pdf
 * Судебная защита средств индивидуализации от незаконного использования в доменных именах \| [автореферат](http://www.law.msu.ru/file/7665/download) \| pdf
-
+* Право на доменное имя и пределы его осуществления \| [диссертация](https://izak.ru/science/dissertatsionnye-sovety/dissertatsionnyy-sovet-02-1-002-04/pravo-na-domennoe-imya-i-predely-ego-osushchestvleniya-/) \| pdf
